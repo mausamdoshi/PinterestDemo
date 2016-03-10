@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pinterest Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="load_pins">Load Pins</string>
+    <string name="enter_username">Pinterest Username</string>
+    <string name="no_pins">No Pins</string>
+    <string name="ok">OK</string>
+    <string name="url">https://widgets.pinterest.com/v3/pidgets/users/@username/pins</string>
+
+    <!-- Error Messages !-->
+    <string name="no_internet">Internet connection is not available. Please try again later</string>
+    <string name="error_enter_username">Enter Pinterest username</string>
+    <string name="error_network_timeout">Network timeout. Please try again.</string>
+    <string name="server_error">Request failed. Some error has occured on server.</string>
+    <string name="network_error">Network Error. Please try again.</string>
+    <string name="json_parsing_error">Error occured in json parsing.</string>
+    <string name="user_not_found">User not found.</string>
+
+</resources>

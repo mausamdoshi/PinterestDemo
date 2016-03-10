@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mausam/Desktop/New/PinterestDemo/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ea21bb595adf8bb9e35ec134181073ca1303cb63">
+        <dex dex="/Users/mausam/Desktop/New/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_427af10641d154420e634174f1166e26cc893e35/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mausam/Desktop/New/PinterestDemo/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e6e5c85b71d3f663524d1ae3f1f9fb7de4a85e71">
+        <dex dex="/Users/mausam/Desktop/New/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_30cd0eaf0175faca39236db39c0fc3e7de0e4f44/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mausam/Desktop/New/PinterestDemo/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4ecefaa6295d6a17af7db6080fd3bf8a1dd4e1de">
+        <dex dex="/Users/mausam/Desktop/New/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_4fe20065ac2d02c91f478d9828c9bc55557c814e/classes.dex" />
+    </item>
+
+</items>
